@@ -49,7 +49,7 @@ class CoverImage extends Component {
                     imgUrl={stamp}
                     handlePageChange={handlePageChange}
                  >
-                 FATTY BURGER
+                 AKA DIGITAL
                  </Header>
             </div>
         );
